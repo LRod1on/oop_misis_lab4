@@ -1,0 +1,3 @@
+C:/Users/ASUs/OneDrive/Desktop/oop_misis/oop_misis_lab4/build/CMakeFiles/main.dir
+C:/Users/ASUs/OneDrive/Desktop/oop_misis/oop_misis_lab4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUs/OneDrive/Desktop/oop_misis/oop_misis_lab4/build/CMakeFiles/ZERO_CHECK.dir
